@@ -13,11 +13,12 @@ Swiper component for React Native. Compatible with Android & iOS. Pull requests 
 
 ## Install
 ```
-$ npm install --save react-native-banner-carousel
+$ npm install --save MssMaster/react-native-banner-carousel
 ```
 
 ## Usage
 
+```js    
 import React from 'react';
 import Carousel from 'react-native-banner-carousel';
 import { StyleSheet, Image, View, Dimensions } from 'react-native';
