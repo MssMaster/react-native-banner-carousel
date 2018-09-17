@@ -18,7 +18,6 @@ $ npm install --save react-native-banner-carousel
 
 ## Usage
 
-```js    
 import React from 'react';
 import Carousel from 'react-native-banner-carousel';
 import { StyleSheet, Image, View, Dimensions } from 'react-native';
